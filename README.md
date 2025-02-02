@@ -8,7 +8,6 @@
 <body>
     <h1>Добро пожаловать на мой сайт!</h1>
     <p>Это мой первый сайт, созданный с нуля на HTML.</p>
-    <img src="path/to/image.jpg" alt="Описание изображения">
-    <p>Посетите <a href="https://example.com">Example</a> для получения дополнительной информации.</p>
-</body>
-</html>
+    <img src="path/to/image.jpg" alt="мой первый дилдо
+        ">
+   
